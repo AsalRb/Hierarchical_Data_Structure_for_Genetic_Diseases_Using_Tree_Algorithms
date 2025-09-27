@@ -44,8 +44,8 @@ Hierarchical_Data_Structure_for_Genetic_Diseases_Using_Tree_Algorithms_Project/
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/<your-username>/Hierarchical_Data_Structure_for_Genetic_Diseases_Using_Tree_Algorithms_Project.git
-cd Hierarchical_Data_Structure_for_Genetic_Diseases_Using_Tree_Algorithms_Project
+git clone https://github.com/AsalRb/Hierarchical_Data_Structure_for_Genetic_Diseases_Using_Tree_Algorithms.git
+cd Hierarchical_Data_Structure_for_Genetic_Diseases_Using_Tree_Algorithms
 ```
 
 ### 2. Run project
