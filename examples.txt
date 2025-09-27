@@ -1,0 +1,35 @@
+"Cancer"
+
+'Glioblastoma'
+ERBB2:
+Location: 17q12
+Number of exons: 35
+Gene type: protein coding
+Official full name: erb-b2 receptor tyrosine kinase2
+
+TP53:
+Location: 17p13.1
+Number of exons: 13
+Gene type: protein coding
+Official full name: tumor protein p53 
+
+IDH1:
+Location: 2q34
+Number of exons: 12
+Gene type: protein coding
+Official full name: isocitrate dehydrogenase
+
+-----------------------------------------------
+
+'Breast cancer'
+CASP8:
+Location: 2q33.1
+Number of exons: 16
+Gene type: protein coding
+Official full name: caspase 8
+
+RAD54L: 
+Location: 1p34.1
+Number of exons: 19
+Gene type: protein coding
+Official full name: RAD54 like
