@@ -63,7 +63,7 @@ python Hierarchical_Data_Structure_for_Genetic_Diseases_Using_Tree_Algorithms_Pr
 ---
 
 
-## 📌 Notes
+## Notes
 
 * Input examples are stored in `examples.txt`.
 * Final project report with detailed explanation is included as **PDF**.
