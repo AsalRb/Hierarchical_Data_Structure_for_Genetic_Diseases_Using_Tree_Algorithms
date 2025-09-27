@@ -1,7 +1,7 @@
 
 # Hierarchical Data Structure for Genetic Diseases Using Tree Algorithms
 
-> A Python-based project implementing a hierarchical **tree structure** to represent genetic diseases, their subcategories, and associated genes.
+> A Python-based project implementing a hierarchical **tree structure** to represent genetic diseases, their subcategories, and associated genes.<br>
 > *Final project for the Data Structures and Algorithms course.*
 
 ---
@@ -22,10 +22,10 @@ The program supports:
 
 ```
 Hierarchical_Data_Structure_for_Genetic_Diseases_Using_Tree_Algorithms_Project/
-├── examples.txt                               # Example input cases for testing
-├── Hierarchical_Data_Structure_for_Genetic... # Main Python implementation
-├── Hierarchical Data Structure for Genetic... # Final project report (PDF)
-└── README.md                                  # Project documentation
+├── examples.txt                                          # Example input cases for testing
+├── Hierarchical_Data_Structure_for_Genetic_Diseases.py   # Main Python implementation
+├── Hierarchical Data Structure for Genetic_Diseases.pdf  # Final project report (PDF)
+└── README.md                                             # Project documentation
 ```
 
 ---
